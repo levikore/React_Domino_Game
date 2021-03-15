@@ -12,4 +12,4 @@ next: get next move.
 ## Run:
 1. npm install
 2. npm run build-watch
-3. open "index" file in public "folder"
+3. open "index" file in "public" folder
